@@ -9,7 +9,9 @@
     <sprite>sprites\quadrotto</sprite>
     <sprite>sprites\proiettile</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\monti</background>
+  </backgrounds>
   <paths name="paths"/>
   <objects name="objects">
     <object>objects\strudel</object>
